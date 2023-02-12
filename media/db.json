@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "name": "Orville Pfannerstill",
+      "id": 1
+    },
+    {
+      "name": "Alexandra Bernhard",
+      "id": 2
+    },
+    {
+      "name": "Domingo Fahey",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Intelligent Fresh Cheese",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Wooden Pizza",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Rubber Shirt",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Refined Plastic Chips",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=75058",
+      "id": 3
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=48953",
+      "id": 4
+    }
+  ]
+}
